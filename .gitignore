@@ -1,0 +1,4 @@
+pypixy.cpp
+.cache/
+build/
+*.so
